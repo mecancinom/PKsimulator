@@ -1,0 +1,6 @@
+{
+  "name": "PharmacoSim — Simulador de Farmacocinética",
+  "description": "Simulador virtual interactivo de farmacocinética para educación médica con modelos mono y bicompartimentales, vías IV e inhalatoria, solver RK4 y visualización dinámica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
